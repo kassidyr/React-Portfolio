@@ -149,3 +149,10 @@ p {
     color: var(--secondary-color-text);
     text-decoration: none;
 }
+
+.work-image {
+    float: left;
+    margin-right: 25px;
+    height: 50px;
+    width: 83px;
+}
