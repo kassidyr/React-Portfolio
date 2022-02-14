@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.9e1f9e07.css",
+    "main.js": "/React-Portfolio/static/js/main.9bb13b1d.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/profile pic.jpg": "/React-Portfolio/static/media/profile pic.7b664c216ed5a945ac2f.jpg",
+    "static/media/BirthdayFunFacts.png": "/React-Portfolio/static/media/BirthdayFunFacts.4e522945c6ecb65f357c.png",
+    "static/media/Kassidy Ralph Resume.pdf": "/React-Portfolio/static/media/Kassidy Ralph Resume.2fda1bf4bfd14c24e50f.pdf",
+    "static/media/GoalTracker.png": "/React-Portfolio/static/media/GoalTracker.d10e75391e69ae3a3076.png",
+    "static/media/background2.JPG": "/React-Portfolio/static/media/background2.10be10395754a764f42d.JPG",
+    "index.html": "/React-Portfolio/index.html",
+    "main.9e1f9e07.css.map": "/React-Portfolio/static/css/main.9e1f9e07.css.map",
+    "main.9bb13b1d.js.map": "/React-Portfolio/static/js/main.9bb13b1d.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e1f9e07.css",
+    "static/js/main.9bb13b1d.js"
+  ]
+}
