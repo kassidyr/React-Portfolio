@@ -21,7 +21,7 @@ function App() {
         <Work></Work>
         </div>
 
-        <div id="contact-me" class="contact-me">
+        <div id="contact-me">
         <ContactMe></ContactMe>
         </div>
       </section>

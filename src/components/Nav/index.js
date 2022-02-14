@@ -1,4 +1,5 @@
 import React from "react";
+import Resume from "../../assets/documents/Kassidy Ralph Resume.pdf";
 
 function Nav() {
   return (
@@ -22,7 +23,7 @@ function Nav() {
             </a>
           </li>
           <li>
-            <a href="./assets/documents/Kassidy Ralph Resume.pdf" alt="Resume">
+            <a href={Resume} alt="Resume">
               Resume
             </a>
           </li>
