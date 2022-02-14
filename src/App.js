@@ -1,40 +1,12 @@
 import React from 'react';
+import Nav from './components/Nav';
 import About from './components/About';
+
 
 function App() {
   return (
     <body>
-      <header>
-        <h1>Kassidy Ralph</h1>
-        <nav>
-          <ul>
-            <li>
-              <a href="#about-me" alt="About Me">
-                About Me
-              </a>
-            </li>
-            <li>
-              <a href="#work" alt="Work">
-                Work
-              </a>
-            </li>
-            <li>
-              <a href="#contact-me" alt="Contact Me">
-                Contact Me
-              </a>
-            </li>
-            <li>
-              <a
-                href="./assets/documents/Kassidy Ralph Resume.pdf"
-                alt="Resume"
-              >
-                Resume
-              </a>
-            </li>
-          </ul>
-        </nav>
-      </header>
-
+      <Nav></Nav>
       <section class="hero">
         <h3>Web Developer</h3>
       </section>
