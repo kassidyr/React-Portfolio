@@ -5,7 +5,7 @@ import spacebook from "../../assets/images/spacebook.png";
 
 function Work() {
     return(
-        <div class="index, section">
+        <div class="index, section2">
         <h2>Work</h2>
         <img src={birthdayFunFacts} class="work-image" alt="Birthday Fun Facts" />
         <p>   
