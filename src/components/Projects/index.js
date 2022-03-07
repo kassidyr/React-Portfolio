@@ -3,10 +3,10 @@ import birthdayFunFacts from "../../assets/images/BirthdayFunFacts.png";
 import goalTracker from "../../assets/images/GoalTracker.png";
 import spacebook from "../../assets/images/spacebook.png";
 
-function Work() {
+function Projects() {
     return(
         <div class="index, section2">
-        <h2>Work</h2>
+        <h2>Projects</h2>
         <img src={birthdayFunFacts} class="work-image" alt="Birthday Fun Facts" />
         <p>   
             <a href="https://kassidyr.github.io/project1/" id="projects">BirthdayFunFacts</a><br/>
@@ -28,4 +28,4 @@ function Work() {
     );
 }
 
-export default Work;
+export default Projects;
