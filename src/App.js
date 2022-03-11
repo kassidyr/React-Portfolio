@@ -7,7 +7,8 @@ import ContactMe from './components/ContactMe';
 function App() {
   return (
     <body>
-      <Nav></Nav>
+      Under Construction
+      {/* <Nav></Nav>
 
       <section class="content">
         <div id="about-me">
@@ -21,7 +22,7 @@ function App() {
         <div id="contact-me">
         <ContactMe></ContactMe>
         </div>
-      </section>
+      </section> */}
     </body>
   );
 }

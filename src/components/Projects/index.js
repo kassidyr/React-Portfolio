@@ -22,7 +22,7 @@ function Projects() {
         <img src={spacebook} class="work-image" alt="spacebook" />
         <p>
             <a href="https://spacebook-social-network.herokuapp.com/" id="projects">spacebook</a><br/>
-            A web application that provides users with information regarding SpaceX launches and allows them to add comments and replies to the listed launch events
+            A social forum that provides users with information regarding SpaceX launches and allows them to add comments and replies to the listed launch events
         </p>
      </div>  
     );
