@@ -12,7 +12,11 @@
     font-size: 1.5rem;
 }
 
-.skills h3 {
+.skills h4 {
     position: relative;
-    font-size: 1.0rem;
+    font-size: 1.2rem;
+}
+
+.skills:hover {
+    color: #4361ee;
 }

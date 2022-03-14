@@ -4,7 +4,7 @@ const MajorProject = (props) => {
     return (
         <div className="majorproject">
             <img alt="majorProject" src={props.source} />
-            <h3>{props.name}</h3>
+            <h4>{props.name}</h4>
         </div>
     )
 };

@@ -17,14 +17,22 @@
     box-sizing: border-box;
 }
 
+.projectTitle{
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: #4361ee;
+    margin-block-start: 0.8em;
+    margin-block-end: 0.8em;
+    text-align: left;
+}
+
 .project h4{
     font-size: 1.4rem;
     font-weight: 800;
-    color: #f77;
+    color: #4361ee;
     margin-block-start: 0.8em;
     margin-block-end: 0.8em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    text-align: left;
 }
 
 .project p{
@@ -38,7 +46,7 @@
 }
 
 .project a{
-    color: darkred;
+    color: #4cc9f0;
     animation: incdec 2s linear infinite;
     font-size: 1.2rem;
     font-weight: 800;
@@ -46,7 +54,7 @@
 }
 
 .project a:hover{
-    color: #f77;
+    color: #4361ee;
 }
 
 @keyframes incdec {

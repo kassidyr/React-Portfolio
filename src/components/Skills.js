@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { BrowserRouter, Link, Redirect, Route, Switch, withRouter } from "react-router-dom";
-import ProjectOne from "../Assests/Project1.png";
-import ProjectTwo from "../Assests/Project2.png";
-import ProjectThree from "../Assests/Project3.png";
+import ProjectOne from "../Assets/Project1.png";
+import ProjectTwo from "../Assets/Project2.png";
+import ProjectThree from "../Assets/Project3.png";
 import MajorProject from "./MajorProject";
 import Project from "./project";
 import "./skill.css";
@@ -11,7 +11,7 @@ const Skills = (props) => {
     {
       source: ProjectOne,
       title: "BirthdayFunFacts",
-      summary: ["An entertainment site to discover interesting facts about your birthday"],
+      summary: ["An entertainment site to discover interesting facts about your birthday."],
       techs: ["HTML","CSS","JavaScript","Bulma"],
       repo: "https://github.com/kassidyr/project1",
       linktoproject: "https://kassidyr.github.io/project1/",

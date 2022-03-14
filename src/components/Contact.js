@@ -1,5 +1,5 @@
 import React from "react";
-import { FaRegEnvelope, FaLinkedin, FaGithub, FaCodepen, FaPhoneAlt, FaMapMarkerAlt, FaDribbble } from "react-icons/fa";
+import { FaRegEnvelope, FaLinkedin, FaGithub, FaPhoneAlt, FaMapMarkerAlt } from "react-icons/fa";
 
 const Contact = ({ contactEmail, contactPara, socialLinks }) => {
   return (

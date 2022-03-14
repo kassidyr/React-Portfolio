@@ -1,6 +1,6 @@
 import React from 'react';
 import Home from './home';
-import Work from './Work';
+// import Work from './Work';
 import Contact from './Contact';
 
 import data from './yourdata';

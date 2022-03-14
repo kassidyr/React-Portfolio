@@ -36,7 +36,7 @@ a {
   z-index: 9999;
 }
 .header_container h1 {
-  font-size:4em;
+  font-size:3.5em;
 }
 .header_container ul {
   list-style: none;
@@ -52,7 +52,7 @@ a {
 }
 
 .nav-link:hover{
-  color:#1E6FD9;
+  color: #f72585;
 }
 
 /* Home */
@@ -75,7 +75,7 @@ a {
   font-family: "Montserrat";
 }
 .home_container .home_head_wrapper h1 span {
-  color: #1e6fd9;
+  color: #f72585;
 }
 .home_container .home_head_wrapper p {
   position: relative;
