@@ -12,7 +12,7 @@ export default {
 
   // Landing Page Paragraph
   landingPagePara:
-    "Web Developer with a growth mindset that embraces challenges",
+    "A Web Developer with a growth mindset that embraces challenges",
 
   // Landing Page Image (replace - root/public/assets/photo.jpg)
   landingPageImage: "assets/photo.jpg",

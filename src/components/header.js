@@ -5,7 +5,7 @@ import Resume from "../Assets/Kassidy Ralph Resume.pdf"
 const Header = ({ name, contactEmail }) => {
   return (
       <div className="header_container">
-        <Link to="/">
+        <Link className="nav-link" to="/">
           <h1>{name}</h1>
         </Link>
         <nav>
