@@ -41,9 +41,9 @@ const Skills = (props) => {
       <div className="skills">
         <h1 style={{textAlign: 'center'}}>My Projects</h1>
         <div style={{display: "flex",justifyContent: "space-around"}}>
-            <Link to="/skills/id=1"><MajorProject source={ProjectOne} name="BirthdayFunFacts" /></Link>
-            <Link to="/skills/id=2"><MajorProject source={ProjectTwo} name="Goal Tracker" /></Link>
-            <Link to="/skills/id=3"><MajorProject source={ProjectThree} name="spacebook" /></Link>
+            <Link className="majorProjects" to="/skills/id=1"><MajorProject source={ProjectOne} name="BirthdayFunFacts" /></Link>
+            <Link className="majorProjects" to="/skills/id=2"><MajorProject source={ProjectTwo} name="Goal Tracker" /></Link>
+            <Link className="majorProjects" to="/skills/id=3"><MajorProject source={ProjectThree} name="spacebook" /></Link>
         </div>
         <Switch>
           <Route path="/skills/id=:id" exact>
